@@ -98,7 +98,7 @@ $(function () {
     position: 'right',
     linkButton: false,
     showOnIE: false,
-    nameClient: 'Teguh',
+    nameClient: 'Aal',
     headerTitle: 'Admin',
   });
 
